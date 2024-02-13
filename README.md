@@ -77,30 +77,16 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoryi44&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoryi44&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
 <br/>
 <br/>
 <br/>
-
-### My Projects ✨:
-  
-<a href="https://github.com/yoryi44/Guatica">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoryi44&repo=Guatica&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/yoryi44/COREINVENTARIO">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?usernameyoryi44&repo=COREINVENTARIO&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/yoryi44/HoroscoApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoryi44&repo=HoroscoApp&theme=tokyonight" />
-</a>
 
 ### My WakaTime Stats 📊:
 
@@ -117,7 +103,7 @@ Text         9 mins          █░░░░░░░░░░░░░░░░
 <div align="center">
   
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
+### Show ❤️ by 🌟 my [repositories](https://github.com/yoryi44?tab=repositories)!
 
 </div>
 -----
