@@ -9,7 +9,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development and Flutter.
+- 🌱 I’m currently learning FullStack Development and Flutter.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Frontend and Android Development.
@@ -48,29 +48,12 @@ Languages and Tools🛠:
 ---
 
 <details>
-<summary> Hackathons 💻: </summary>
-  
-<br/>
-
-Def Hacks | Global 2.0  -  [Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
-Octa Hacks 3.0          -  [Check out!](https://octahacks.tech/)<br/>
-HackSRM 3.0             -  [Check out!](https://hacksrm.tech/)<br/>
-UniHack                 -  [Check out!](https://unihack.eu/)<br/>
-NextStep Hacks          -  [Check out!](https://nextstephacks.weebly.com/)<br/>
-Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
-ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
-
-</details>
-
----
-
-<details>
 <summary> Connect with me🤝: </summary>  
 
 <br/>
 
-<a href="https://t.me/Dave_bhandari">
-  <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+<a href="https://t.me/Jorge_Meza">
+  <img align="left" alt="Jorge's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
 <a href="https://github.com/Davekibh">
