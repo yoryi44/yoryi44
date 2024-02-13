@@ -91,7 +91,3 @@ Languages and Tools🛠:
 ### Show ❤️ by 🌟 my [repositories](https://github.com/yoryi44?tab=repositories)!
 
 </div>
------
-Credits: [Davekibh](https://github.com/Davekibh)
-
-Last Edited on: 15/01/2021
